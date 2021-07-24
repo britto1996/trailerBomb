@@ -1,0 +1,53 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+button {
+    font-size: 100px;
+    align-items: center;
+}
+
+.arya {
+    color: black;
+}
+
+.title {
+    font-size: 5rem;
+    text-align: center;
+}
+
+@media(max-width:900px) {
+    button {
+        font-size: 50px;
+    }
+    .title {
+        font-size: 3rem;
+        text-align: center;
+    }
+}
+
+.love {
+    background-color: red;
+    color: white;
+}
+
+.anger {
+    background-color: grey;
+    color: white;
+}
+
+.frustration {
+    background-color: yellow;
+    color: black;
+}
+
+.dream {
+    background-color: blue;
+    color: white;
+}
+
+.death {
+    background-color: black;
+    color: white;
+}
